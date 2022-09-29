@@ -1,4 +1,4 @@
-### 👋 Hello, here's what I'm currently up to:
+### Hello 👋 Here's what I'm currently up to:
 
 - 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
 - 👨🏻‍💻 Working as a part-time CTO for a health & nutrition platform
