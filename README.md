@@ -1,3 +1,5 @@
-### 👋 Hello World
+### 👋 Hello, here's what I'm currently up to:
 
-Welcome to my GitHub profile. Yup, that's all I have to say for the moment.
+- 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
+- 👨🏻‍💻 Working as a part-time CTO for a health & nutrition platform
+- 🗺 Tinkering with DIY electronics using microcontrollers and MicroPython
