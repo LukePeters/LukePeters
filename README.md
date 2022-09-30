@@ -13,8 +13,8 @@
 
 ### Favorite tools:
 
-- 🐍 Python / Flask
-- 💽 MongoDB
-- ⚛️ JavaScript / React
-- 🐧 Linux / Bash
-- ✅ Selenium
+- 🐍 `Python` / `Flask`
+- 💽 `MongoDB`
+- ⚛️ `JavaScript` / `React`
+- 🐧 `Linux` / `Bash`
+- ✅ `Selenium`
