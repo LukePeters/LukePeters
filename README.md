@@ -13,8 +13,8 @@
 
 ### Favorite tools:
 
-- 🐍 Python | Flask
-- 💽 MongoDB | PostgreSQL
-- ⚛️ JavaScript | React
-- 🐧 Linux | Bash | Cron
+- 🐍 Python / Flask
+- 💽 MongoDB / PostgreSQL
+- ⚛️ JavaScript / React
+- 🐧 Linux / Bash
 - ✅ Selenium
