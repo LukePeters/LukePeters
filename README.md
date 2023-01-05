@@ -1,6 +1,6 @@
 ### Currently working on:
 
-- 👨🏻‍💻 CTO/Software Engineer at a health and nutrition company
+- 👨🏻‍💻 Software Engineer at a health and nutrition company
 - 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
 - 📟 Tinkering with electronics, microcontrollers, and 3D printing
 - 📡 Learning about networking, system administration, and cybersecurity
