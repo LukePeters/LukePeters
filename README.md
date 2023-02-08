@@ -8,8 +8,9 @@
 ### Most interested in:
 
 - 🌐 Building and scaling REST APIs
+- ⚛️ Building robust JavaScript apps
 - 🤖 Automating repetitive tasks with code
-- 🛠 Building internal tools to streamline workflows
+- 🛠 Improving tools, infrastructure, and documentation
 
 ### Favorite tools:
 
