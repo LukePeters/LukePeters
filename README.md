@@ -1,6 +1,6 @@
 ### Currently working on:
 
-- 👨🏻‍💻 Software Engineer
+- 👨🏻‍💻 Software Engineer at [Grafton Studio](https://graftonstudio.com)
 - 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
 - 📟 Tinkering with electronics, microcontrollers, and 3D printing
 - 📡 Learning about networking, system administration, and cybersecurity
