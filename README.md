@@ -15,7 +15,7 @@
 ### Favorite tools:
 
 - 🐍 Python / Flask
-- 💽 MongoDB
+- 💽 MongoDB / PostgreSQL
 - ⚛️ JavaScript / React
 - 🐧 Linux / Bash
 - ✅ Selenium
