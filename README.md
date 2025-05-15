@@ -1,6 +1,6 @@
 ### Currently working on:
 
-- 👨🏻‍💻 Software Engineer at [Grafton Studio](https://graftonstudio.com)
+- 👨🏻‍💻 CTO at [Grafton Studio](https://graftonstudio.com)
 - 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
 - 📟 Tinkering with electronics, microcontrollers, and 3D printing
 - 📡 Learning about networking, system administration, and cybersecurity
@@ -10,7 +10,7 @@
 - 🌐 Building and scaling REST APIs
 - ⚛️ Building robust JavaScript apps
 - 🤖 Automating repetitive tasks with code
-- 🛠 Improving tools, infrastructure, and documentation
+- 🛠 Improving tools, infrastructure, and security
 
 ### Favorite tools:
 
