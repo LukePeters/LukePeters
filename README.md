@@ -1,21 +1,19 @@
 ### Currently working on:
 
 - 👨🏻‍💻 CTO at [Grafton Studio](https://graftonstudio.com)
-- 🤖 Building [Screenlapse](https://screenlapse.com) for automated website screenshots
+- 📡 Leveling up in cybersecurity, networking, and system administration
 - 📟 Tinkering with electronics, microcontrollers, and 3D printing
-- 📡 Learning about networking, system administration, and cybersecurity
 
 ### Most interested in:
 
-- 🌐 Building and scaling REST APIs
-- ⚛️ Building robust JavaScript apps
-- 🤖 Automating repetitive tasks with code
-- 🛠 Improving tools, infrastructure, and security
+- 🔐 Securing web applications and infrastructure
+- 🤖 Automating repetitive tasks with Python and Bash
+- 🌐 Designing, building, and securing REST APIs
 
 ### Favorite tools:
 
-- 🐍 Python / Flask
-- 💽 MongoDB / PostgreSQL
-- ⚛️ JavaScript / React
 - 🐧 Linux / Bash
-- ✅ Selenium
+- 🐍 Python / Flask
+- 💽 PostgreSQL / MongoDB
+- ⚛️ JavaScript / React
+- 🤖 Selenium / WebDriver 
