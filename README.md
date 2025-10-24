@@ -3,6 +3,7 @@
 - 👨🏻‍💻 CTO at [Grafton Studio](https://graftonstudio.com)
 - 📡 Leveling up in cybersecurity, networking, and system administration
 - 📟 Tinkering with electronics, microcontrollers, and 3D printing
+- 👨🏻‍🏭 Learning welding and machining in my garage and basement workshop
 
 ### Most interested in:
 
